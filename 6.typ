@@ -9,6 +9,7 @@
 ]
 
 = ¿Qué fue lo que aprendiste?
+Reforcé y reencontré mis habilidades en manejo de procesos en C, incluyendo la creación y sincronización de procesos concurrentes, y construí un intérprete de comandos básico.
 
 = Programa de deteccion basica de hijo/padre
 
